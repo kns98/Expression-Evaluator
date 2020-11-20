@@ -22,4 +22,9 @@ Conversion to library for app deveopment (mobile)
 <br/>
 Selective evaluation
 
+LICENSE
+
+GPL 3.0
+See Attached
+
 
