@@ -1,4 +1,4 @@
-# ExpressionEvaluator
+# Expression Evaluator
 (1) Top  Down Parser Converts Mathematical Expressions into Reverse Polish Notation
 <br/>
 (2) Evaluator Evaluates them
